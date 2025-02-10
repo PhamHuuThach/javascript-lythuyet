@@ -93,3 +93,7 @@ var isMarried = false;
 isMarried
   ? console.log(name + " is married")
   : console.log(name + " is not married");
+/*
+"===": Vừa so sánh kiểu dữ liệu, vừa so sánh giá trị
+"==": Chi sở sánh giá trị
+*/
