@@ -2,7 +2,7 @@
 /* 
     1. Number
     2. String
-    3. Boolean (so sánh cá toán hạng)
+    3. Boolean (so sánh các toán hạng)
     4. Null
     5. Undefined
     kiểm tra kiểu dữ liệu của biến sử dụng typeof
